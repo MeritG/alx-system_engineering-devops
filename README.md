@@ -1,1 +1,1 @@
-Shell basic project
+Shell init files, variables and expansions
